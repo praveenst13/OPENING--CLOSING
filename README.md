@@ -7,21 +7,22 @@ To implement Opening and Closing using Python and OpenCV.
 2. OpenCV
 ## Algorithm:
 ### Step1:
-<br>
+  Import the necessary libraries: OpenCV (cv2), NumPy (np), and Matplotlib (plt).
 
 
 ### Step2:
-<br>
+  Use cv2.putText to add the text "THE BOYS" to the image at coordinates (10, 70) with a font size of 2 and white color (255).
 
 ### Step3:
-<br>
+  Use cv2.getStructuringElement to create a kernel (structuring element) for morphological operations. In this case, it's a rectangular kernel of size (9, 9).
+
 
 ### Step4:
-<br>
+  Use cv2.morphologyEx with the cv2.MORPH_CLOSE operation to perform a closing operation on the original image.
 
 ### Step5:
-<br>
 
+  Use plt.show() to display the entire figure with the subplots
  
 ## Program:
 
