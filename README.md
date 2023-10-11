@@ -56,6 +56,11 @@ To implement Opening and Closing using Python and OpenCV.
 <br>
 <br>
 <br>
+
+
+
+![image](https://github.com/praveenst13/OPENING--CLOSING/assets/118787793/8a93606c-da80-4c18-912a-7aeffe25a2dc)
+
 <br>
 <br>
 <br>
@@ -64,6 +69,11 @@ To implement Opening and Closing using Python and OpenCV.
 <br>
 <br>
 <br>
+
+![image](https://github.com/praveenst13/OPENING--CLOSING/assets/118787793/cf717145-571e-4db8-b996-c6e6ba2d6262)
+
+
+
 <br>
 <br>
 <br>
@@ -72,6 +82,10 @@ To implement Opening and Closing using Python and OpenCV.
 <br>
 <br>
 <br>
+
+![image](https://github.com/praveenst13/OPENING--CLOSING/assets/118787793/bf3b7e0f-8ce8-4d42-b311-25aa04cbab4f)
+
+
 <br>
 <br>
 <br>
